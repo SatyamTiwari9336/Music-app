@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Beginner Guitar Essentials",
+    "level": "Beginner",
+    "instructor": "John Smith",
+    "duration": "6 weeks",
+    "lessons": 12,
+    "price": 49.99,
+    "category": "Guitar",
+    "rating": 4.5,
+    "image": "guitar_course.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Piano Techniques",
+    "level": "Advanced",
+    "instructor": "Alice Johnson",
+    "duration": "8 weeks",
+    "lessons": 16,
+    "price": 79.99,
+    "category": "Piano",
+    "rating": 4.8,
+    "image": "piano_course.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Vocal Training for Pop Singers",
+    "level": "Intermediate",
+    "instructor": "Maria Lopez",
+    "duration": "5 weeks",
+    "lessons": 10,
+    "price": 59.99,
+    "category": "Vocals",
+    "rating": 4.7,
+    "image": "vocals_course.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Drumming Basics",
+    "level": "Beginner",
+    "instructor": "Kevin Brown",
+    "duration": "4 weeks",
+    "lessons": 8,
+    "price": 39.99,
+    "category": "Drums",
+    "rating": 4.3,
+    "image": "drums_course.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Electronic Music Production",
+    "level": "Advanced",
+    "instructor": "Sophie Miller",
+    "duration": "10 weeks",
+    "lessons": 20,
+    "price": 99.99,
+    "category": "Music Production",
+    "rating": 4.9,
+    "image": "electronic_course.jpg"
+  }
+]
