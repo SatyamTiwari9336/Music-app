@@ -5,7 +5,7 @@ import { HoveredLink, Menu, MenuItem, ProductItem } from "./ui/navbar-menu";
 export default function NavbarDemo() {
   return (
     <div className="relative w-full flex items-center justify-center">
-      <Navbar className="top-2" />
+      <Navbar className="top-2 mt-15 w-2xl " />
       <p className="text-black dark:text-white"></p>
     </div>
   );
